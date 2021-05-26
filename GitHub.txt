@@ -1,0 +1,14 @@
+
+¿Qué es y para qué sirve GitHub?
+Github es un repositorio online gratuito que permite gestionar 
+proyectos y controlar versiones de código. Es muy utilizado por
+desarrolladores para almacenar sus trabajos dando así la 
+oportunidad a millones de personas de todo el mundo a cooperar
+en ellos.
+
+
+¿Quién usa GitHub?
+Cualquier equipo o empresa que trabaje en diferentes proyectos que
+requieran desarrollo en forma de archivos puede utilizar este 
+servicio. Por ejemplo, los equipos de contenido y marketing pueden 
+utilizar GitHub para organizar sus proyectos.
