@@ -2,10 +2,11 @@
 ¿Qué es un repositorio virtual?
 Un repositorio digital o virtual es un sitio web donde se almacena información digital de empresas o instituciones; los archivos almacenados pueden ser accedidos por quienes lo permita la institución o el administrador.
 
+¿Qué es un repositorio de base de datos?
+Un repositorio, depósito o archivo es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos.
 
 ¿Qué es y para qué sirve GitHub?
 Github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperaren ellos.
-
 
 ¿Quién usa GitHub?
 Cualquier equipo o empresa que trabaje en diferentes proyectos que requieran desarrollo en forma de archivos puede utilizar este  servicio. Por ejemplo, los equipos de contenido y marketing pueden utilizar GitHub para organizar sus proyectos.
