@@ -10,3 +10,6 @@ Github es un repositorio online gratuito que permite gestionar proyectos y contr
 
 ¿Quién usa GitHub?
 Cualquier equipo o empresa que trabaje en diferentes proyectos que requieran desarrollo en forma de archivos puede utilizar este  servicio. Por ejemplo, los equipos de contenido y marketing pueden utilizar GitHub para organizar sus proyectos.
+
+¿Cómo sirve GitHub?
+Github permite que los desarrolladores alojen proyectos creando repositorios de forma gratuita. ... Y no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
